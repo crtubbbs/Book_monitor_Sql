@@ -75,42 +75,48 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
 | 4/29     |  12Pm    |  IM    | Preparation                                |   1:00      |
-| 5/1      |  10Am    |  TP    |  Class                                     |   1:00      |
-| 5/2      |  2Pm     |  TP    |  Team meeting outside class                |   1:00      |           
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 5/1      |  10Am    |  TP    | Class                                      |   1:00      |
+| 5/2      |  2Pm     |  TP    | Team meeting outside class                 |   1:00      |           
+| 5/4      |  5Pm     |  IM    | Watched videos on SQLite and book managers |   2:00      |                             
+| 5/5      |  2Pm     |  IM    | Started coding while watching videos       |   1:00      |           
+| 5/6      |  10Am    |  TP    | In class meeting                           |   1:00      |  
+| 5/7         2Pm        TP      Out of class meeting                           1:00
+| 5/7         6:30Pm     IM      Contiued to add code of my own                 1:30
+| 5/8         8Pm        IM      More coding and debugging                      1:00
+| 5/9         5Pm        IM      Getting my project presentation ready          1:30
+| 5/10        3Pm        IM      Advice from team members on how to improve     1:00
+| 5/11        11Am       IM      Finishing product along with video presentation 1:00 
 
-_Note: Add more rows as needed._
-
-
+ 
 ## Part 3 - Module Results
 
-This section should be filled out at the end of the Sprint and submitted.
+This section should be filled out at the end of the Sprint and submitted. 
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here:  https://github.com/crtubbbs/Book_monitor_Sql
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/5lCLspIyTpA
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |   Y    |
+|Did you complete all the unique requirements for the module?|   Y    |
+|Did you write at least 100 lines of code?                   |   Y    |
+|Did you fully complete the readme.md file?                  |   Y    |
+|Did you put the readme.md file in GitHub in the top folder? |   Y    |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
-
+No
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|         10        |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
+What worked well for me is when I would dedicate a time to work on this project. There were many times when I would say that I need to work on it but would not,
+when I would say I will work on it at this time I actually did. I am disapointed with the work that got completed the first week. I did not do enough working in the first week which made me work twice as hard during week 2. This will be the problem I solve this upcoming sprint.
