@@ -118,5 +118,4 @@ No
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
-What worked well for me is when I would dedicate a time to work on this project. There were many times when I would say that I need to work on it but would not,
-when I would say I will work on it at this time I actually did. I am disapointed with the work that got completed the first week. I did not do enough working in the first week which made me work twice as hard during week 2. This will be the problem I solve this upcoming sprint.
+What worked well for me is when I would dedicate a time to work on this project. There were many times when I would say that I need to work on it but would not, when I would say I will work on it at this time I actually did. I am disapointed with the work that got completed the first week. I did not do enough working in the first week which made me work twice as hard during week 2. This will be the problem I solve this upcoming sprint.
